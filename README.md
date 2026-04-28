@@ -7,10 +7,10 @@ A professional, high-fidelity Login UI built with Flutter, focusing on clean cod
 ## App Preview
 
 ### Login Screen
-![Login Screen](login.png)
+![Login Screen](Login.png)
 
 ### Home Screen
-![Home Screen](home.png)
+![Home Screen](Home.png)
 
 ## Getting Started
 
